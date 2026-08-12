@@ -65,7 +65,3 @@ Each EPUB retains its original content source in the book metadata or introducto
 - All rights to the original text, images, trademarks, and other materials belong to their respective authors or rights holders.
 - This repository does not grant any additional license to the original material. Users are responsible for complying with applicable laws and the terms of the original sources.
 - Rights holders who believe any material should not be publicly available may open a GitHub Issue, and I will address the request promptly.
-
-## Privacy and Security
-
-Before publication, the repository and EPUB contents were checked for local absolute paths, private email addresses, access tokens, API keys, and other common sensitive information. Git commits use a GitHub noreply email address.
