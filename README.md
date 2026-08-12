@@ -1,5 +1,10 @@
 # Books
 
+<p align="center">
+  <a href="README.md">简体中文</a> |
+  <a href="README.en.md">English</a>
+</p>
+
 这是一个面向离线阅读的 EPUB 收藏，内容主要整理自公开访谈、演讲、文章和股东信，并按语言分类存放。
 
 ## 目录结构
@@ -64,4 +69,3 @@
 ## 隐私与安全
 
 公开发布前，仓库及 EPUB 内容已检查本机绝对路径、私人邮箱、访问令牌、API 密钥和其他常见敏感信息；提交记录使用 GitHub noreply 邮箱。
-
