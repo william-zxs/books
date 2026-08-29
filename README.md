@@ -15,12 +15,13 @@
 └── zh/    # 中文 EPUB（含 zh-CN、zh-Hans）
 ```
 
-目前共收录 26 本：英文 10 本，中文 16 本。
+目前共收录 28 本：英文 11 本，中文 17 本。
 
 ## 英文书目
 
 | 书名 | EPUB |
 | --- | --- |
+| DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | [下载](en/dhh-future-programming-ai-agents.epub) |
 | The Full-Length Interview with Elon Musk | [下载](en/elon-musk-full-length-interview-2026.epub) |
 | Interview: Elon Musk on SpaceX Plans | [下载](en/elon-musk-spacex-plans-2026.epub) |
 | Jeff Bezos: Amazon and Blue Origin | [下载](en/jeff-bezos-amazon-and-blue-origin.epub) |
@@ -36,6 +37,7 @@
 
 | 书名 | EPUB |
 | --- | --- |
+| DHH：编程的未来、AI、智能体工程、氛围编程与 Linux | [下载](zh/莱克斯弗里德曼-DHH-编程与人工智能的未来访谈录.epub) |
 | 伯克希尔·哈撒韦历年致股东信：1990–2025 中文版 | [下载](zh/伯克希尔哈撒韦历年致股东信-1990-2025-中文版.epub) |
 | 埃隆·马斯克：SpaceX 计划访谈 | [下载](zh/埃隆马斯克-太空探索技术公司计划访谈.epub) |
 | 埃隆·马斯克：与《经济学人》的深度访谈 | [下载](zh/埃隆马斯克-经济学人深度访谈.epub) |
