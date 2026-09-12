@@ -15,7 +15,7 @@
 └── zh/    # 中文 EPUB（含 zh-CN、zh-Hans）
 ```
 
-目前共收录 28 本：英文 11 本，中文 17 本。
+目前共收录 30 本：英文 12 本，中文 18 本。
 
 ## 英文书目
 
@@ -31,6 +31,7 @@
 | Elon Musk: War, AI, Aliens, Politics, Physics, Video Games, and Humanity | [下载](en/lexfridman-elon-musk-4-transcript.epub) |
 | SpaceX & the Sentient Sun | [下载](en/marc-andreessen-spacex-sentient-sun.epub) |
 | MrBeast: Future of YouTube, Twitter, TikTok, and Instagram | [下载](en/mrbeast-future-of-youtube.epub) |
+| Steve Jobs: The Lost Interview (1995) | [下载](en/steve-jobs-the-lost-interview-1995.epub) |
 | Warren Buffett: Lecture at the University of Florida School of Business | [下载](en/warren-buffett-university-of-florida-1998.epub) |
 
 ## 中文书目
@@ -38,6 +39,7 @@
 | 书名 | EPUB |
 | --- | --- |
 | DHH：编程的未来、AI、智能体工程、氛围编程与 Linux | [下载](zh/莱克斯弗里德曼-DHH-编程与人工智能的未来访谈录.epub) |
+| 乔布斯：失落的访谈（1995） | [下载](zh/乔布斯-失落的访谈-1995.epub) |
 | 伯克希尔·哈撒韦历年致股东信：1990–2025 中文版 | [下载](zh/伯克希尔哈撒韦历年致股东信-1990-2025-中文版.epub) |
 | 埃隆·马斯克：SpaceX 计划访谈 | [下载](zh/埃隆马斯克-太空探索技术公司计划访谈.epub) |
 | 埃隆·马斯克：与《经济学人》的深度访谈 | [下载](zh/埃隆马斯克-经济学人深度访谈.epub) |

@@ -15,7 +15,7 @@ A collection of EPUB books for offline reading, primarily compiled from publicly
 └── zh/    # Chinese EPUBs (including zh-CN and zh-Hans)
 ```
 
-The collection currently contains 28 books: 11 in English and 17 in Chinese.
+The collection currently contains 30 books: 12 in English and 18 in Chinese.
 
 ## English Books
 
@@ -31,6 +31,7 @@ The collection currently contains 28 books: 11 in English and 17 in Chinese.
 | Elon Musk: War, AI, Aliens, Politics, Physics, Video Games, and Humanity | [Download](en/lexfridman-elon-musk-4-transcript.epub) |
 | SpaceX & the Sentient Sun | [Download](en/marc-andreessen-spacex-sentient-sun.epub) |
 | MrBeast: Future of YouTube, Twitter, TikTok, and Instagram | [Download](en/mrbeast-future-of-youtube.epub) |
+| Steve Jobs: The Lost Interview (1995) | [Download](en/steve-jobs-the-lost-interview-1995.epub) |
 | Warren Buffett: Lecture at the University of Florida School of Business | [Download](en/warren-buffett-university-of-florida-1998.epub) |
 
 ## Chinese Books
@@ -38,6 +39,7 @@ The collection currently contains 28 books: 11 in English and 17 in Chinese.
 | Title | EPUB |
 | --- | --- |
 | DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux — Chinese Edition | [Download](zh/莱克斯弗里德曼-DHH-编程与人工智能的未来访谈录.epub) |
+| Steve Jobs: The Lost Interview (1995) — Chinese Edition | [Download](zh/乔布斯-失落的访谈-1995.epub) |
 | Berkshire Hathaway Shareholder Letters, 1990–2025 — Chinese Edition | [Download](zh/伯克希尔哈撒韦历年致股东信-1990-2025-中文版.epub) |
 | Elon Musk: Interview on SpaceX Plans — Chinese Edition | [Download](zh/埃隆马斯克-太空探索技术公司计划访谈.epub) |
 | Elon Musk: The Economist In-Depth Interview — Chinese Edition | [Download](zh/埃隆马斯克-经济学人深度访谈.epub) |
