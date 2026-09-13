@@ -15,7 +15,7 @@ A collection of EPUB books for offline reading, primarily compiled from publicly
 └── zh/    # Chinese EPUBs (including zh-CN and zh-Hans)
 ```
 
-The collection currently contains 30 books: 12 in English and 18 in Chinese.
+The collection currently contains 31 books: 12 in English and 19 in Chinese.
 
 ## English Books
 
@@ -40,6 +40,7 @@ The collection currently contains 30 books: 12 in English and 18 in Chinese.
 | --- | --- |
 | DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux — Chinese Edition | [Download](zh/莱克斯弗里德曼-DHH-编程与人工智能的未来访谈录.epub) |
 | Steve Jobs: The Lost Interview (1995) — Chinese Edition | [Download](zh/乔布斯-失落的访谈-1995.epub) |
+| Steve Jobs: Stanford Commencement Address (2005) — Chinese Edition | [Download](zh/乔布斯-斯坦福大学毕业典礼演讲-2005.epub) |
 | Berkshire Hathaway Shareholder Letters, 1990–2025 — Chinese Edition | [Download](zh/伯克希尔哈撒韦历年致股东信-1990-2025-中文版.epub) |
 | Elon Musk: Interview on SpaceX Plans — Chinese Edition | [Download](zh/埃隆马斯克-太空探索技术公司计划访谈.epub) |
 | Elon Musk: The Economist In-Depth Interview — Chinese Edition | [Download](zh/埃隆马斯克-经济学人深度访谈.epub) |
