@@ -15,7 +15,7 @@ A collection of EPUB books for offline reading, primarily compiled from publicly
 └── zh/    # Chinese EPUBs (including zh-CN and zh-Hans)
 ```
 
-The collection currently contains 31 books: 12 in English and 19 in Chinese.
+The collection currently contains 32 books: 12 in English and 20 in Chinese.
 
 ## English Books
 
@@ -47,6 +47,7 @@ The collection currently contains 31 books: 12 in English and 19 in Chinese.
 | Li Lu: The Outlook for Value Investing in China — Chinese Edition | [Download](zh/李录-价值投资在中国的展望.epub) |
 | Li Lu: Unity of Knowledge and Action in Value Investing — Chinese Edition | [Download](zh/李录-价值投资的知行合一.epub) |
 | Li Lu: Global Value Investing and the Times — Chinese Edition | [Download](zh/李录-全球价值投资与时代.epub) |
+| Li Lu: 36th Annual Graham & Dodd Luncheon (2026) — Chinese Edition | [Download](zh/李录-第36届格雷厄姆多德年度午餐会-2026.epub) |
 | Warren Buffett: 1998 Lecture at the University of Florida School of Business — Chinese Edition | [Download](zh/沃伦巴菲特-1998年佛罗里达大学商学院演讲.epub) |
 | Elon Musk: Tesla Autopilot — Chinese Edition | [Download](zh/莱克斯弗里德曼-埃隆马斯克-访谈录.epub) |
 | Elon Musk: Neuralink, AI, Autopilot, and the Pale Blue Dot — Chinese Edition | [Download](zh/莱克斯弗里德曼-埃隆马斯克-2-访谈录.epub) |
